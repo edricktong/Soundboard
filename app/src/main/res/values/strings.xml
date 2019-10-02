@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Soundboard</string>
+    <string name="A">A</string>
+    <string name="C">C</string>
+    <string name="B">B</string>
+    <string name="song1">song1</string>
+    <string name="song2">song2</string>
+    <string name="song3">song3</string>
+    <string name="Bb">Bb</string>
+    <string name="CS">Cs</string>
+    <string name="D">D</string>
+    <string name="DS">Ds</string>
+    <string name="E">E</string>
+    <string name="F">F</string>
+    <string name="FS">Fs</string>
+    <string name="G">G</string>
+    <string name="GS">Gs</string>
+</resources>

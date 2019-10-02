@@ -1,0 +1,4 @@
+#Tue Sep 24 12:41:50 PDT 2019
+base.0=/Users/per6/Desktop/Soundboard/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
